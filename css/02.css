@@ -1,0 +1,27 @@
+.background-color {
+    background-color: #FFEBB2;
+}
+
+.appetizer-theme {
+    background-color: #E9A89B;
+    font-family: cursive;
+}
+
+.entree-theme {
+    background-color: #D875C7;
+    font-family: fantasy;
+}
+
+.dessert-theme {
+    background-color: #c356f1;
+    font-family: monospace;
+}
+
+.text-left {
+    text-align: left;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
