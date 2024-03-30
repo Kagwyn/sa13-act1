@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif
+}
+
+.blog-header {
+    background-color: #d4cbcb;
+    color: black;
+    font-family: cursive
+}
+
+img {
+    width:250px;
+    height:250px;
+    object-fit:scale-down
+}
+
+.row {
+    row-gap: 150px
+}
